@@ -13,10 +13,10 @@ Olá, sou o Raul César👋
 
 <div>
 <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Raul-Cesar0&show_icons=true&theme=radical&locale=en&icon_color=D83B7D"/>
-<img height="120cm"ss://github-readme-stats.vercel.app/api/pin/?username=Raul-Cesar0&repo=Raul-Cesar0&layout=compact&langs_count=16&theme=radical&show_owner"/>
+<img height="172cm" src="https://github-readme-stats.vercel.app/api/pin/?username=Raul-Cesar0&repo=Raul-Cesar0&layout=compact&langs_count=16&theme=radical&show_owner"/>
 </div>
 
-##
+![Snake animation](https://github.com/Raul-Cesar0/Raul-Cesar0/blob/output/github-contribution-grid-snake.svg)
 
 
 
