@@ -17,7 +17,3 @@ Olá, sou o Raul César👋
 </div>
 
 ![Snake animation](https://github.com/Raul-Cesar0/Raul-Cesar0/blob/output/github-contribution-grid-snake.svg)
-
-
-
-
