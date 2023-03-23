@@ -1,6 +1,6 @@
-Olá, sou o Raul César👋
+Olá, sou o Raul 👋
 
-- 💻 Atualmente trabalhando como Analista de Suporte de Sistemas
+- 💻 Atualmente trabalhando como Analista de Suporte à Sistemas
 - 🌱 Estudando Java
 
 
