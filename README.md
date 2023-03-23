@@ -1,6 +1,6 @@
 Olá, sou o Raul 👋
 
-- 💻 Atualmente trabalhando como Analista de Suporte à Sistemas
+- 💻 Atualmente trabalhando como Analista de Suporte de Sistemas
 - 🌱 Estudando Java
 
 
