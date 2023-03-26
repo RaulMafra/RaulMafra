@@ -15,4 +15,4 @@ Olá, sou o Raul 👋
 <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Raul-Cesar0&show_icons=true&theme=radical&locale=en&icon_color=D83B7D"/>
 
 
-![Snake animation](https://github.com/Raul-Cesar0/Raul-Cesar0/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Raul-Cesar0/RaulMafra/blob/output/github-contribution-grid-snake.svg)
