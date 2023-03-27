@@ -1,6 +1,6 @@
 # Olá, sou o Raul 👋
 
-- 💻 Atualmente trabalhando como Analista de Suporte de Sistemas Pleno na C&A
+- 💻 Atualmente sou Analista de Suporte de Sistemas Pleno na C&A
 - 👨🏽‍💻 Estudando Sistemas de Informação na FAM
 - 🌱 Estudando Java pra Backend
 
