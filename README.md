@@ -16,9 +16,14 @@
 
 ##
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,git,github,postman,azure,linux" />
+  </a>
+</p>
+
 <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaulMafra&layout=compact&hide_title=true&hide_border=true&border_radius=10&bg_color=141321&title_color=D83B7D&text_color=fff&card_width=245">
 <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api?username=RaulMafra&show_icons=true&hide_title=true&layout=compact&hide_border=true&border_radius=10&bg_color=141321&title_color=fff&text_color=fff&icon_color=3178C6&ring_color=3178C6&card_width=345">
-
 
 
 <div align="center">
