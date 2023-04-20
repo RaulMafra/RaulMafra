@@ -1,6 +1,6 @@
 # Olá, sou o Raul 👋
 
-- 💻 Atualmente sou Analista de Suporte de Sistemas N2 na C&A
+- 💻 Atualmente atuo como Analista de Suporte de Sistemas N2
 - 👨🏽‍💻 Estudando Sistemas de Informação
 - 🌱 Estudando Java pra Backend
 
