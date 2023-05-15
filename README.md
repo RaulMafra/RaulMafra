@@ -1,12 +1,17 @@
-# Olá, sou o Raul 👋
-
-- 💻 Atualmente atuo como Analista de Suporte de Sistemas N2
-- 👨🏽‍💻 Estudando Sistemas de Informação
-- 🌱 Estudando Java pra Backend
+# Hy, my name is Raul 👋
 
 
+💼 I'm a Systems Support Analyst II at C&A
+<br>
+🎓 I study Information Systems
+<br>
+💻 I learning Java for Backend
+<br>
+🤩 Enthusiast about Software development
+
+     
 <h2 align="center">
-  Contatos
+  Contacts
   </h2>
 <div align="center">
   <a href="mailto:raulcesar.sm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
