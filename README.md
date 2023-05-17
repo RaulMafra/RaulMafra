@@ -5,7 +5,7 @@
 <br>
 🎓 I study Information Systems
 <br>
-💻 I learning Java for Backend
+💻 I'm learning Java for Backend
 <br>
 🤩 Enthusiast about Software development
 
