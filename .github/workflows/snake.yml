@@ -27,7 +27,7 @@ jobs:
       - uses: actions/checkout@v2
 
     # Generates the snake  
-      - uses: Platane/snk@master
+      - uses: RaulMafra
         id: snake-gif
         with:
           github_user_name: RaulMafra
@@ -43,7 +43,7 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
+          branch: main
           force: true
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
