@@ -1,8 +1,5 @@
 # Hi there, my name is Raul 👋
 
-
-💼 I'm a Systems Support Analyst II at C&A
-<br>
 🎓 I study Information Systems
 <br>
 💻 I'm learning Java for Backend
