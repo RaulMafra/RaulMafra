@@ -1,10 +1,10 @@
 # Hi there, my name is Raul 👋
 
-🎓 I study Information Systems
+🎓 Bacharelado em Sistemas de Informação
 <br>
-💻 I'm learning Java for Backend
+💻 Desenvolvimento de Sistemas com ênfase em Backend com Java
 <br>
-🤩 Enthusiast about Software development
+🤩 Entusiasta em Desenvolvimento de Sistemas
 
      
 <h2 align="center">
