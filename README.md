@@ -1,10 +1,10 @@
-# Hi there, my name is Raul 👋
+# Olá, meu nome é Raul!
 
-🎓 Bacharelado em Sistemas de Informação
+• Bacharelado em Sistemas de Informação
 <br>
-💻 Desenvolvimento de Sistemas com ênfase em Backend com Java
+• Desenvolvimento de Sistemas com ênfase em Backend com Java
 <br>
-🤩 Entusiasta em Desenvolvimento de Sistemas
+• Entusiasta em Desenvolvimento de Sistemas
 
      
 <h2 align="center">
@@ -20,20 +20,9 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,eclipse,git,github,postman,azure,linux,docker" />
+    <img src="https://skillicons.dev/icons?i=java,spring,aws,azure,hibernate,docker,postman,git,linux,js,html,css,mongodb,mysql,postgres" />
   </a>
 </p>
 
 <img align="left" height="130em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RaulMafra&layout=compact&hide_title=true&hide_border=true&border_radius=10&bg_color=141321&title_color=D83B7D&text_color=fff&card_width=245">
 <img align="right" height="130em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RaulMafra&show_icons=true&hide_title=true&layout=compact&hide_border=true&border_radius=10&bg_color=141321&title_color=fff&text_color=fff&icon_color=3178C6&ring_color=3178C6&card_width=345">
-
-
-<div align="center">
-     
-<!-- Snake 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
--->
-</div>
